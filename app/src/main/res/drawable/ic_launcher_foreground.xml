@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer stylized stopwatch / countdown ring and graduation cap silhouette inside 66dp safe zone -->
+    <path
+        android:fillColor="#FF38BDF8"
+        android:pathData="M48,25h12v5h-12z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,32 C67.25,32 78,42.75 78,56 C78,69.25 67.25,80 54,80 C40.75,80 30,69.25 30,56 C30,42.75 40.75,32 54,32 Z M54,38 C44.06,38 36,46.06 36,56 C36,65.94 44.06,74 54,74 C63.94,74 72,65.94 72,56 C72,46.06 63.94,38 54,38 Z" />
+    <path
+        android:fillColor="#FFFBBF24"
+        android:pathData="M54,43 L66,49 L54,55 L42,49 Z M46,53.5 L54,57.5 L62,53.5 L62,61 C62,63.5 58.4,65.5 54,65.5 C49.6,65.5 46,63.5 46,61 Z" />
+</vector>

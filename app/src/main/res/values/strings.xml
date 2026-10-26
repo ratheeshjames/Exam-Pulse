@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exam Pulse</string>
+    <string name="nav_countdowns">Exams</string>
+    <string name="nav_planner">Planner</string>
+    <string name="nav_focus">Study</string>
+    <string name="nav_mocks">Mocks</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="action_add_exam">New Exam</string>
+    <string name="action_presets">Presets</string>
+    <string name="action_settings">Settings &amp; Backup</string>
+    <string name="action_focus_mode">Immersive Focus</string>
+    <string name="search_exams_hint">Search exams, categories, or venues…</string>
+    <string name="empty_exams_title">No exams match your filter</string>
+    <string name="empty_exams_subtitle">Tap + New Exam or browse 20+ competitive exam presets to start your countdown.</string>
+    <string name="welcome_banner_title">Welcome to Exam Pulse</string>
+    <string name="welcome_banner_body">Track live countdowns, plan syllabus topics with 1-3-7-21 spaced repetition, log Pomodoro sessions, and analyze mock test trends. All data stays privately on your device.</string>
+    <string name="dismiss_welcome">Got it</string>
+</resources>

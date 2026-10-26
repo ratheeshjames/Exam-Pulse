@@ -1,0 +1,6 @@
+{
+  "name": "Exam Pulse",
+  "description": "Native Material 3 exam countdown, spaced-repetition syllabus planner, Pomodoro study tracker, and mock test analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
